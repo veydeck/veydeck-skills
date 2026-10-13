@@ -1,0 +1,7 @@
+interface:
+  display_name: "Veydeck App Icon"
+  short_description: "为 Veydeck 应用、桌面和套件入口生成统一 PNG 图标。"
+  brand_color: "#1D63ED"
+  default_prompt: "使用 $veydeck-app-icon 为这个 Veydeck 应用或套件入口制作可直接交付的 PNG 图标。"
+policy:
+  allow_implicit_invocation: true

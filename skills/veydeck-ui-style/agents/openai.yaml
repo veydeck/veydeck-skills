@@ -1,0 +1,7 @@
+interface:
+  display_name: "Veydeck UI Style"
+  short_description: "构建符合 VDL 的 Vue 与 React 安全运维界面。"
+  brand_color: "#1D63ED"
+  default_prompt: "使用 $veydeck-ui-style 设计、实现或审查这个 Veydeck Vue/React 界面。"
+policy:
+  allow_implicit_invocation: true

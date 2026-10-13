@@ -1,0 +1,7 @@
+interface:
+  display_name: "Veydeck Icon System"
+  short_description: "创建并验证 Vue/React 共用的 VDL 24px SVG 图标。"
+  brand_color: "#00C8FF"
+  default_prompt: "使用 $veydeck-icon-system 创建、验证或接入 Veydeck 通用 SVG UI 图标。"
+policy:
+  allow_implicit_invocation: true
