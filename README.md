@@ -9,6 +9,7 @@
 ```text
 veydeck-skills/
 ├── skills/
+│   ├── veydeck-icon-family/
 │   ├── veydeck-app-icon/
 │   ├── veydeck-icon-system/
 │   └── veydeck-ui-style/
@@ -23,6 +24,7 @@ veydeck-skills/
 
 | Skill | 职责 |
 | --- | --- |
+| `veydeck-icon-family` | 生成与扩展 PNG 图标家族，提供小尺寸预览、过程留档及校验归档。 |
 | `veydeck-app-icon` | 生成和验证内置应用、应用库入口与 Compose 套件 PNG 图标。 |
 | `veydeck-icon-system` | 维护按钮、工具栏、菜单和状态等 24px SVG 图标。 |
 | `veydeck-ui-style` | 使用 VDL Token 和 Veydeck Vue 3/React 19 组件实现、审查前端界面。 |

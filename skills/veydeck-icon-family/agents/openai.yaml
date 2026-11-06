@@ -1,0 +1,4 @@
+interface:
+  display_name: "Veydeck PNG 图标家族"
+  short_description: "生成一致风格的 PNG 套图，支持小尺寸预览、留档及增量归档"
+  default_prompt: "使用 $veydeck-icon-family 为当前项目生成一组统一风格的透明 PNG 图标。"

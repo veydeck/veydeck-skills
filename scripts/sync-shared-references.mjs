@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url'
 
 const repositoryRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const sourcePath = path.join(repositoryRoot, 'shared/brand/veydeck-brand.md')
-const skillNames = ['veydeck-app-icon', 'veydeck-icon-system', 'veydeck-ui-style']
+const skillNames = ['veydeck-app-icon', 'veydeck-icon-system', 'veydeck-ui-style', 'veydeck-icon-family']
 const targetPaths = skillNames.map((skillName) =>
   path.join(repositoryRoot, 'skills', skillName, 'references', 'veydeck-brand.md'),
 )
